@@ -1,0 +1,13 @@
+.header {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  align-items: baseline;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(236, 190, 62);
+  color: black;
+  font-size: bold;
+  font-weight: 900;
+}
